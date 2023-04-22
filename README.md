@@ -16,7 +16,6 @@ Olá, me chamo Bruno, acredito que o diálogo cria base para colaboração e gos
 
 ### Stats
 
-<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=pobruno&theme=default"/>
 <img src="https://github-readme-stats.vercel.app/api?username=pobruno&show_icons=true&locale=en"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pobruno"/>
 
