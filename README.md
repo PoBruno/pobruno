@@ -10,7 +10,9 @@
 from Joinville-SC import Bruno-Gomes
 ```
 Olá, me chamo Bruno, acredito que o diálogo cria base para colaboração e gosto muito de Infraestrutura e Desenvolvimento.
+  
 #
+  
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=pobruno&show_icons=true&locale=en"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pobruno"/>
