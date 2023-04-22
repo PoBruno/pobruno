@@ -10,9 +10,7 @@
 ```py
 from Joinville-SC import Bruno-Gomes
 ```
-Olá, me chamo Bruno, acredito que o diálogo cria base para colaboração e gosto muito de Infraestrutura e Desenvolvimento!
-Adoro mexer com linguagens de programação como Powershell, Bash e Golang, gosto muito de CI/CD e sou fã dos pipelines do Azure DevOps e do GitHub Actions. Sou fascinado por arquitetura Cloud, principalmente a do Azure. Gosto de automatizar provisionamento de aplicações em imagens como Docker. Em provisionamento de infra, Terraform e Ansible são os que eu mais gosto, e alguns webservers.
-Enfim, sou um cara que curte muito o que faz e estou sempre tentando fazendo aquilo que não sou capaz, numa tentativa de aprender como faze-lo.
+Olá, me chamo Bruno, acredito que o diálogo cria base para colaboração e gosto muito de Infraestrutura e Desenvolvimento.
 
 #
 
