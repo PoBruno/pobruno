@@ -1,5 +1,7 @@
 *[Portuguese](README.md) ∙ [English](README-en.md)*
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="brunopoleza" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/brunopoleza?trk=profile-badge">Bruno Gomes</a></div>
+              
 <p>
 <img  src="https://komarev.com/ghpvc/?username=pobruno&label=Profile%20views&color=4f278b&style=flat-square"/>
 <img  src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/>
@@ -20,6 +22,7 @@ from Joinville-SC import Bruno-Gomes
 <form>
 <img align="left" width="470" height="200" src="https://github-readme-stats.vercel.app/api?username=pobruno&show_icons=true&locale=en"> <img align="left" width="689" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pobruno">
 
+  
 </form>
 </div>
 <div>
