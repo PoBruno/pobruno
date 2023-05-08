@@ -1,5 +1,5 @@
 *[Portuguese](README.md) ∙ [English](README-en.md)*
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="brunopoleza" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/brunopoleza?trk=profile-badge">Bruno Gomes</a></div>
          
 <p>
