@@ -15,7 +15,7 @@ Minha primeira incursão no mundo da programação foi com SQL, onde aprendi a l
 
 Sempre motivado a aplicar meus conhecimentos em projetos práticos de estudos. Comecei a explorar o Visual Studio Code, utilizando Web Forms para construir sistemas, sem lidar diretamente com o front-end.
 
-A segunda linguagem de programação que aprendi foi o C#, que me permitiu moldar as lógicas dos meus projetos. No entanto, foi com o PowerShell,que encontrei minha verdadeira paixão. Meu amor pelo PowerShell cresceu e se tornou a linguagem em que tenho mais experiência no mercado.
+A segunda linguagem de programação que aprendi foi o C#, que me permitiu moldar as lógicas dos meus projetos. No entanto, foi com o PowerShell, que encontrei minha verdadeira paixão. Meu amor pelo PowerShell cresceu e se tornou a linguagem em que tenho mais experiência no mercado.
 
 Hoje tenho experiencias em lógica de programação orentada a objetos e infra estrutura, percebi que minha paixão é o mundo DevOps.
 <br><br>
