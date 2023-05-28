@@ -10,7 +10,7 @@ from Joinville-SC import Bruno-Gomes
 ```
 
 Olá! Meu nome é Bruno e gosto muito de desenvolvimento e infraestrutura.
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 #
 
