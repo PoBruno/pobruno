@@ -9,15 +9,7 @@
 from Joinville-SC import Bruno-Gomes
 ```
 
-Desde cedo, sempre estive envolvido com a área de infraestrutura, explorando diferentes aspectos tecnológicos. Aos 11 anos, eu já estava experimentando o Hamachi e descobrindo sobre VPNs para poder jogar online com meus amigos. Minha curiosidade me levou a criar scripts em lote no CMD para automatizar processos.
-
-Minha primeira incursão no mundo da programação foi com SQL, onde aprendi a linguagem e trabalhei com modelagem e conversão de dados. Isso me permitiu explorar diferentes bancos de dados relacionais e não relacionais, expandindo meus conhecimentos em programação e analise de dados.
-
-Sempre motivado a aplicar meus conhecimentos em projetos práticos de estudos. Comecei a explorar o Visual Studio Code, utilizando Web Forms para construir sistemas, sem lidar diretamente com o front-end.
-
-A segunda linguagem de programação que aprendi foi o C#, que me permitiu moldar as lógicas dos meus projetos. No entanto, foi com o PowerShell, que encontrei minha verdadeira paixão. Meu amor pelo PowerShell cresceu e se tornou a linguagem em que tenho mais experiência no mercado.
-
-Hoje tenho experiencias em lógica de programação orentada a objetos e infra estrutura, percebi que minha paixão é o mundo DevOps.
+Olá! Meu nome é Bruno e gosto muito de desenvolvimento e infraestrutura.
 <br><br>
 
 #
