@@ -1,27 +1,34 @@
-
-*[Portuguese](README.md) ∙ [English](README-en.md)*
 <p>
+
+[![wakatime](https://wakatime.com/badge/user/018d2089-4400-438b-a193-e84f6d278985.svg)](https://wakatime.com/@018d2089-4400-438b-a193-e84f6d278985) 
+<img src="https://img.shields.io/badge/DevOps-Cloud-4f278b?style=flat-square&logo=linux&logoColor=white" alt="DevOps Cloud">
 <img src="https://komarev.com/ghpvc/?username=pobruno&label=Profile%20views&color=4f278b&style=flat-square"/>
 <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/>
+
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pobruno&show_icons=true&locale=en&layout=compact"/>
+```ShellSession
+bruno@home:~$ whoami
+Bruno Poleza Gomes
+bruno@home:~$ mysql -u root -p  -h seu_host -e "select * from sua_tabela"
+bruno@home:~$ export $(grep -v '^#' .env | xargs) && \
 
-```py
-from Joinville-SC import Bruno-Gomes
+  mysql -u root -p "$MYSQL_PASSWORD" -h "$MYSQL_SERVER" -e "select * from resume"
+
++----------------------------------------+--------------------------------------------+
+|            DevOps Skills               |          Tools and Technologies            |
++----------------------------------------+--------------------------------------------+
+| CI/CD                                  | Jenkins, Git, Docker, Kubernetes, Ansible  |
+| Infrastructure Automation              | Terraform, Puppet, Chef, AWS, Azure, GCP   |
+| Cloud Technologies                     | AWS, Azure, GCP, Oracle Cloud              |
+| Monitoring and Logging                 | Prometheus, Grafana                        |
+| Scripting and Programming Languages    | Python, Bash, PowerShell, VB, SQL          |
+| Version Control Systems                | Git, SVN                                   |
+| Operating Systems                      | Linux, Windows                             |
+| Collaboration and Communication        | Agile, Scrum, Jira, Confluence             |
++----------------------------------------+--------------------------------------------+
+
+bruno@home:~$ exit
 ```
-Hello, my name is Bruno. I believe that dialogue creates a foundation for collaboration and I am very interested in Infrastructure and Development! I enjoy working with programming languages such as Powershell, Bash, and Golang. I am very passionate about CI/CD and a big fan of Azure DevOps and GitHub Actions pipelines. I am fascinated by Cloud architecture, especially that of Azure. I like to automate the provisioning of applications in images like Docker. When it comes to provisioning infrastructure, I enjoy working with Terraform and Ansible, as well as some webservers. In short, I am a guy who really enjoys what he does and is always trying to do things that he's not capable of, in an attempt to learn how to do them.
 
-#
 
-### Stats
-
-<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=pobruno&theme=default"/>
-<img src="https://github-readme-stats.vercel.app/api?username=pobruno&show_icons=true&locale=en"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pobruno"/>
-
-#
-
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=pobruno&row=1&theme=onedark)](https://github.com/pobruno/github-profile-trophy)
-
-#
