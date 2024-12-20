@@ -8,15 +8,13 @@
 </p>
 
 ```ShellSession
-bruno@home:~$ whoami
-Bruno Poleza Gomes
-bruno@home:~$ mysql -u root -p  -h Bruno -e "select * from Joinville"
-bruno@home:~$ export $(grep -v '^#' .env | xargs) && \
+bruno@joinville:~$ whoami
+Bruno Poleza Gomes - Joinville SC - 1995
 
-  mysql -u root -p "$MYSQL_PASSWORD" -h "$MYSQL_SERVER" -e "select * from resume"
+bruno@joinville:~$ mysql -u root -p -h Bruno -e "select * from resume"
 
 +----------------------------------------+--------------------------------------------+
-|            DevOps Skills               |          Tools and Technologies            |
+|              DevOps Skills             |            Tools and Technologies          |
 +----------------------------------------+--------------------------------------------+
 | CI/CD                                  | Jenkins, Git, Docker, Kubernetes, Ansible  |
 | Infrastructure Automation              | Terraform, Puppet, Chef, AWS, Azure, GCP   |
@@ -28,7 +26,7 @@ bruno@home:~$ export $(grep -v '^#' .env | xargs) && \
 | Collaboration and Communication        | Agile, Scrum, Jira, Confluence             |
 +----------------------------------------+--------------------------------------------+
 
-bruno@home:~$ exit
+bruno@joinville:~$ exit
 ```
 
 
