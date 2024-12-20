@@ -10,7 +10,7 @@
 ```ShellSession
 bruno@home:~$ whoami
 Bruno Poleza Gomes
-bruno@home:~$ mysql -u root -p  -h seu_host -e "select * from sua_tabela"
+bruno@home:~$ mysql -u root -p  -h Bruno -e "select * from Joinville"
 bruno@home:~$ export $(grep -v '^#' .env | xargs) && \
 
   mysql -u root -p "$MYSQL_PASSWORD" -h "$MYSQL_SERVER" -e "select * from resume"
