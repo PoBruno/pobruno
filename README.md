@@ -12,14 +12,17 @@
 
 ```ShellSession
 bruno@joinville:~$ whoami
+
 Bruno Poleza Gomes - Sysadmin & IT Developer
 Joinville, SC - 1995
 
-- Trabalho como Sysadmin na área de TI, dedicando boa parte do meu tempo a projetos de infraestrutura (cloud, on-prem e híbridos).
+-----------------------------------------------------------------------------------------------------------
+- Trabalho como Sysadmin na área de TI, dedicando boa parte do meu tempo a projetos de infraestrutura.
 Grande parte do meu dia envolve desenvolvimento de scripts em Shell, PowerShell e Python.
-
+-----------------------------------------------------------------------------------------------------------
 - Apesar do meu foco principal ser infraestrutura, também desenvolvo soluções backend com Node.js e Python.
 Tenho paixão por open source e todo o ecossistema DevOps.
+-----------------------------------------------------------------------------------------------------------
 
 bruno@joinville:~$ exit
 ```
