@@ -17,10 +17,10 @@ Bruno Poleza Gomes - Sysadmin & IT Developer
 Joinville, SC - 1995
 
 -----------------------------------------------------------------------------------------------------------
-- Trabalho como Sysadmin na área de TI, dedicando boa parte do meu tempo a projetos de infraestrutura.
-Grande parte do meu dia envolve desenvolvimento de scripts em Shell, PowerShell e Python.
+- Trabalho como Sysadmin, dedicando boa parte do meu tempo a projetos de infraestrutura.
+Grande parte do meu dia envolve desenvolvimento de scripts em Shell, PowerShell e Python, CI/CD, IaC.
 -----------------------------------------------------------------------------------------------------------
-- Apesar do meu foco principal ser infraestrutura, também desenvolvo soluções backend com Node.js e Python.
+- Apesar do meu foco em infraestrutura, também trabalho com stacks backend com Node.js e Python.
 Tenho paixão por open source e todo o ecossistema DevOps.
 -----------------------------------------------------------------------------------------------------------
 
