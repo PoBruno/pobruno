@@ -1,30 +1,40 @@
-
-
 <p align="left">
-  <!-- Badges existentes -->
   <a href="https://wakatime.com/@018d2089-4400-438b-a193-e84f6d278985">
     <img src="https://wakatime.com/badge/user/018d2089-4400-438b-a193-e84f6d278985.svg" alt="Wakatime" />
   </a>
-  <img src="https://img.shields.io/badge/DevOps-Cloud-4f278b?style=flat-square&logo=linux&logoColor=white" alt="DevOps Cloud" />
-  <img src="https://komarev.com/ghpvc/?username=pobruno&label=Profile%20views&color=4f278b&style=flat-square" alt="Profile views" />
-  <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Infrastructure-Automation-4f278b?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=pobruno&label=Profile%20views&color=4f278b&style=flat-square" />
+  <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103" />
 </p>
 
-```ShellSession
-bruno@joinville:~$ whoami
+```bash
+bruno@infra:~$ whoami
+Bruno Gomes
 
-Bruno Poleza Gomes - Sysadmin & IT Developer
-Joinville, SC - 1995
+bruno@infra:~$ role
+Senior ITOps Analyst
 
------------------------------------------------------------------------------------------------------------
-- Trabalho como Sysadmin, dedicando boa parte do meu tempo a projetos de infraestrutura.
-Grande parte do meu dia envolve desenvolvimento de scripts em Shell, PowerShell e Python, CI/CD, IaC.
------------------------------------------------------------------------------------------------------------
-- Apesar do meu foco em infraestrutura, também trabalho com stacks backend com Node.js e Python.
-Tenho paixão por open source e todo o ecossistema DevOps.
------------------------------------------------------------------------------------------------------------
+bruno@infra:~$ location
+Joinville, SC - Brazil
 
-bruno@joinville:~$ exit
+bruno@infra:~$ about
+working with infrastructure, automation and reliability
+10+ years dealing with systems that can’t go down
+
+bruno@infra:~$ stack
+linux docker kubernetes terraform ansible
+
+bruno@infra:~$ scripting
+shell powershell python vbs
+
+bruno@infra:~$ approach
+solve real problems
+automate what hurts
+bring order to chaos
+
+bruno@infra:~$ interests
+backend development (node.js, python)
+open source ecosystem
+
+bruno@infra:~$ _
 ```
-
-
