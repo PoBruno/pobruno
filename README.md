@@ -17,12 +17,12 @@
 
 <br>
 
-<table align="center" border="0" style="border: none;">
+<table align="center" border="0" style="border: none; width: 100%;">
   <tr>
-    <td width="55%" align="center" style="border: none;">
-      <img src="img/terminal-carbon.svg" width="90%" alt="Terminal" />
+    <td width="70%" align="center" style="border: none;">
+      <img src="img/terminal-carbon.svg" width="100%" alt="Terminal" />
     </td>
-    <td width="45%" align="center" style="border: none;">
+    <td width="30%" align="center" style="border: none;">
       <img src="https://streak-stats.demolab.com?user=pobruno&theme=tokyonight&hide_border=true" width="100%" />
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pobruno&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
