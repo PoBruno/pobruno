@@ -5,14 +5,8 @@
   <img src="https://img.shields.io/badge/Infrastructure-Automation-4f278b?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=pobruno&label=Profile%20views&color=4f278b&style=flat-square" />
   <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103" />
+
+  <br><br>
+
+  <img src="img/terminal-profile.svg" width="65%" alt="Terminal" />
 </div>
-
-<br>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td width="60%" align="center" style="padding: 0;">
-      <img src="img/carbon.svg" width="100%" alt="Terminal" />
-    </td>
-  </tr>
-</table>>
